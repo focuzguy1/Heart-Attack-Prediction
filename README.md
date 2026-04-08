@@ -81,3 +81,9 @@ Top predictors for mortality:
 5. **Serum Sodium** - Electrolyte balance
 
 ## 🛠️ Technologies Used
+- Python 3.9
+- pandas, numpy - Data manipulation
+- scikit-learn - ML models & preprocessing
+- xgboost - Gradient boosting
+- matplotlib, seaborn - Visualization
+- joblib - Model persistence
